@@ -1,0 +1,65 @@
+@import "../../scss/index";
+$width-in-pixels: 3.2px;
+
+.card-img {
+  display: block;
+  width: calc(100% + #{$width-in-pixels});
+  height: calc(100% + #{$width-in-pixels});
+  transform-origin: center;
+  transition: transform 0.3s ease;
+  background-color: #000000;
+  position: absolute;
+  overflow: hidden;
+
+  &__id{
+    width: calc(100% + #{$width-in-pixels});
+    height: calc(100% + #{$width-in-pixels});
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    &--brightness{
+      filter: brightness(50%);
+    }
+  }
+
+}
+
+.btn-rotate {
+  width: calc(50% + #{$width-in-pixels});
+  height: 100%;
+  position: absolute;
+  bottom: 2px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-rotate--left {
+  left: -2px;
+}
+
+.btn-rotate--right {
+  right: 2px;
+}
+
+.btn-rotate--left svg {
+  display: none;
+}
+
+.btn-rotate--right svg {
+  display: none;
+}
+
+.btn-rotate:hover {
+  background: rgba(0, 0, 0, 0.5);
+  visibility: visible;
+}
+
+.btn-rotate:hover svg {
+  display: block;
+}

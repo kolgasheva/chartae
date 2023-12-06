@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a14fbc0d-4bf4-4111-b8c7-6073534b2ffa" name="Changes" comment="change marks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WbyGL6I8GcqU6kWy7YWyiXViZl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;add__marks&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Алёна/Desktop/ChartaeRefresh&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Progs\\WebStorm 2022.2.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a14fbc0d-4bf4-4111-b8c7-6073534b2ffa" name="Changes" comment="" />
+      <created>1697015478474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697015478474</updated>
+      <workItem from="1697015480663" duration="25307000" />
+      <workItem from="1697477524919" duration="12000" />
+      <workItem from="1697479466564" duration="10398000" />
+      <workItem from="1697547264734" duration="128000" />
+      <workItem from="1697651944542" duration="2944000" />
+      <workItem from="1697705680668" duration="21000" />
+      <workItem from="1699192985612" duration="215000" />
+      <workItem from="1699225553930" duration="1373000" />
+      <workItem from="1699262772519" duration="21296000" />
+      <workItem from="1699353040832" duration="8297000" />
+      <workItem from="1699514646506" duration="25000" />
+      <workItem from="1699549986578" duration="14910000" />
+      <workItem from="1699627482299" duration="3373000" />
+      <workItem from="1699735976619" duration="11060000" />
+      <workItem from="1699786243321" duration="6485000" />
+      <workItem from="1700320427204" duration="269000" />
+      <workItem from="1701257928277" duration="336000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add hot reload">
+      <created>1697016286979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697016286979</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Move canvas to board">
+      <created>1697016307073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697016307073</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixa mana">
+      <created>1697034927765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697034927765</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Remove Strict mode - he did provide trigger useEffect and re-renders">
+      <created>1697043144282</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697043144282</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add PlaceBtn and RotateBtn">
+      <created>1697547370496</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697547370496</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change PlusIcon">
+      <created>1699226470610</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699226470610</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change IconsRotate">
+      <created>1699226846793</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699226846793</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change IconsRotate">
+      <created>1699266108757</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699266108757</updated>
+    </task>
+    <task id="LOCAL-00009" summary="change IconsRotate">
+      <created>1699304424702</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699304424702</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add mobile scss gamepage">
+      <created>1699313165215</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699313165215</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add modal-overlay">
+      <created>1699368770567</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699368770568</updated>
+    </task>
+    <task id="LOCAL-00012" summary="merge">
+      <created>1699571913628</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699571913628</updated>
+    </task>
+    <task id="LOCAL-00013" summary="remove console.log">
+      <created>1699572949119</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699572949119</updated>
+    </task>
+    <task id="LOCAL-00014" summary="change marks">
+      <created>1699745136783</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699745136783</updated>
+    </task>
+    <task id="LOCAL-00015" summary="change marks">
+      <created>1699746845083</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699746845083</updated>
+    </task>
+    <task id="LOCAL-00016" summary="change marks">
+      <created>1699795658455</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1699795658455</updated>
+    </task>
+    <task id="LOCAL-00017" summary="change marks">
+      <created>1699796576263</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699796576263</updated>
+    </task>
+    <task id="LOCAL-00018" summary="change marks">
+      <created>1699799588037</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699799588037</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add hot reload" />
+    <MESSAGE value="Move canvas to board" />
+    <MESSAGE value="Fixa mana" />
+    <MESSAGE value="Remove Strict mode - he did provide trigger useEffect and re-renders" />
+    <MESSAGE value="add PlaceBtn and RotateBtn" />
+    <MESSAGE value="change PlusIcon" />
+    <MESSAGE value="change IconsRotate" />
+    <MESSAGE value="add mobile scss gamepage" />
+    <MESSAGE value="add modal-overlay" />
+    <MESSAGE value="merge" />
+    <MESSAGE value="remove console.log" />
+    <MESSAGE value="change marks" />
+    <option name="LAST_COMMIT_MESSAGE" value="change marks" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+@import "../../scss/index";
+
+.btn-languages{
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+
+.btn-languages--eng {
+  background-image: url("../../assets/backgroundImg/eng.png");
+}
+
+.btn-languages--ukr {
+  background-image: url("../../assets/backgroundImg/ukr.png");
+}
